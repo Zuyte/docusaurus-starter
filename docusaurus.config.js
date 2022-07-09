@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/docs/voidless', label: 'Bedwars1058-Voidless', position: 'left'},
+          {to: '/', label: 'a', position: 'left'},
           {
             href: 'https://github.com/zuyte',
             label: 'GitHub',
@@ -110,8 +110,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Bedwars1058-Voidless',
-                to: '/docs/voidless',
+                label: 'a',
+                to: '/',
               },
               {
                 label: 'GitHub',
