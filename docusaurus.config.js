@@ -101,8 +101,8 @@ const config = {
                 href: 'https://discord.gg/Gmb8JAVR6H',
               },
               {
-                label: '',
-                href: '',
+                label: 'Docs',
+                href: 'https://zuyte.netlify.app/docs/',
               },
             ],
           },
