@@ -123,8 +123,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Zuyte, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: darkCodeTheme,
-        lightTheme: lightCodeTheme,
+        theme: lightCodeTheme,
+        lightTheme: darkCodeTheme,
       },
     }),
 };
