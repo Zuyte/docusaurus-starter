@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# FAQ
+# 📜 FAQ
 
 Here are all the most asked questions!
 
