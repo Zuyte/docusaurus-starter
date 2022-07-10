@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome
+# ✨ Welcome
 
 Here you will find documentations of all the plugins created by zuyte!
 
