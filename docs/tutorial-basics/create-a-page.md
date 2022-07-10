@@ -2,42 +2,18 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Install Voidless addon
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+In this tutorial we will install the voidless addon to your minecraft server!
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+- `1. Add Bedwars1058-Voidless addon to your server's plugins folder.`
 
-## Create your first React Page
+- `2. Make sure bedwars1058 is installed and its on the latest version, currently **22.7**`
 
-Create a file at `src/pages/my-react-page.js`:
+- `3. Start the server`
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+- `4. Once Started, Run **pl** command in the console`
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+- `5. Make sure Bedwars1058 & Bedwars1058-Voidless is highligted in green.`
 
-A new page is now available at `http://localhost:3000/my-react-page`.
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+- `6. Now a config file will be created in **plugins/Bedwars1058/Addons/Voidless**`
