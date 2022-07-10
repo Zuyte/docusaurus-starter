@@ -81,7 +81,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Extra',
             items: [
               {
                 label: 'Welcome',
@@ -110,8 +110,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'a',
-                to: '/',
+                label: 'Bedwars1058',
+                to: '/docs/Bedwars1058-Voidless/Install-Voidless-Addon',
               },
               {
                 label: 'GitHub',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zuyte, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: darkCodeTheme,
