@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Setup Groups for Voidless addon
+# 👥 Setup Groups for Voidless addon
 
 In this tutorial we will setup a group for your voidless arenas!
 
