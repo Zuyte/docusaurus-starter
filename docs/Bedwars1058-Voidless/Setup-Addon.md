@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Install Voidless addon
+# 💿 Setup Voidless addon
 
 In this tutorial we will setup the bedwars1058-voidless addon!
 
