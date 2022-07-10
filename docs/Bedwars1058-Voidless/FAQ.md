@@ -14,4 +14,4 @@ Sure, if you need help you can ask for support at our (https://discord.gg/Gmb8JA
 
 # I am unable to break the bed defence!?
 Make sure the arena's spawn protection doesn't interfere with the bed defence.
-Arena spawn protection settings is located in plugins/BedWars1058/Arenas/<arena>.yml
+Arena spawn protection settings is located in plugins/BedWars1058/Arenas/arena-name.yml
