@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Install Voidless addon
+# 🔻 Install Voidless addon
 
 In this tutorial we will install the voidless addon to your minecraft server!
 
