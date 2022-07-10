@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Welcome',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Welcome',
           },
-          {to: '/', label: 'a', position: 'left'},
+          {to: '/docs/Bedwars1058-Voidless/Install-Voidless-Addon', label: 'Bedwars1058-Voidless', position: 'left'},
           {
             href: 'https://github.com/zuyte',
             label: 'GitHub',
@@ -84,8 +84,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Welcome',
+                to: '/docs/Welcome',
               },
             ],
           },
