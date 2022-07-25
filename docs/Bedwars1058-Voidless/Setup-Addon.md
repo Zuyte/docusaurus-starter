@@ -26,4 +26,4 @@ group:
 - Solo
 ```
 
-- `4. Restart your server, Done. Now a bed defence will automatically be created every time the arena starts!` 
+- `4. use /bw voidless reload, Now a bed defence will automatically be created every time the arena is played!` 
