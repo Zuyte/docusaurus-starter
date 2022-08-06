@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 💿 Commands
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Commands    | Description | Permissions    |
+| ----------- | ----------- | -------------- |
+| /bw admin   | Title       | bw.admin       |
+| /bw troll   | Text        | bw.admin.troll |
