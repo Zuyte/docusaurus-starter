@@ -8,4 +8,4 @@ sidebar_position: 2
 | ---- | ---- | ---- |
 | /bw admin | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bw.admin |
 | /bw troll | sus amoguis | bw.admin.troll |
-| /bw setteam <arena> <player | eee | ee |
+| /bw setteam <arena> <player | eefgfge | ee |
