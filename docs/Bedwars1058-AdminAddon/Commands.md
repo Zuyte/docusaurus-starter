@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 💿 Commands
 
+Admin Commands.
+
 | Commands | Description | Permissions |
 | ---- | ---- | ---- |
 | /bw admin | Admin cmds list | bw.admin |
@@ -13,7 +15,11 @@ sidebar_position: 2
 | /bw setbed (player) (true / false) | Sets player team's status | bw.admin.setteam |
 | /bw nextevent (arena) (event) | Sets next event of an arena, Options: diamond-2, diamond-3, emerald-2, emerald-3, bed-destroy, dragon, end | bw.admin.nextevent |
 | /bw skipevent (arena) | Skips event of the arena | bw.admin.skipevent |
-| | |
+
+Troll Commands.
+
+| Commands | Description | Permissions |
+| ---- | ---- | ---- |
 | /bw troll mlg (player) | Forces player to mlg | bw.admin.troll |
 | /bw troll cage (player) | Traps the player in a breakable glass cage | * |
 | /bw troll blind (player) (seconds) | Blinds the player | * |
