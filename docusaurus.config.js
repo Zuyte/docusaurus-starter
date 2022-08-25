@@ -74,8 +74,9 @@ const config = {
             position: 'left',
             label: 'Welcome',
           },
-          {to: '/docs/Bedwars1058-AdminAddon/Install-AdminAddon', label: 'Bedwars1058-AdminAddon', position: 'left'},
           {to: '/docs/Bedwars1058-Voidless/Install-Voidless-Addon', label: 'Bedwars1058-Voidless', position: 'left'},
+          {to: '/docs/Bedwars1058-AdminAddon/Install-AdminAddon', label: 'Bedwars1058-AdminAddon', position: 'left'},
+          {to: '/docs/Bedwars1058-LeaveDelay/Install-LeaveDelay', label: 'Bedwars1058-LeaveDelay', position: 'left'},
           {
             href: 'https://github.com/zuyte',
             label: 'GitHub',
