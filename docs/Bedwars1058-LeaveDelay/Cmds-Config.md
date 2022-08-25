@@ -19,7 +19,7 @@ To get material list of your version replace 1.8.8 with your server version at h
 :::
 
   | Option | Description |
-| ---- | ---- | ---- |
+| ---- | ---- |
 | Material | Leave Item Material |
 | Slot | Leave Item Slot |
 | Name | Leave Item Name |
