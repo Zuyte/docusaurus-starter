@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Zuyte',
-  tagline: 'Dinosaurs are cool',
+  title: 'Zuyte Development',
+  tagline: 'Plugins which make your day!',
   url: 'https://zuyte.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
